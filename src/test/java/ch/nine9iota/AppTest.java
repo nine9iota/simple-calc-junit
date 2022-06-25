@@ -4,7 +4,9 @@ import static org.junit.Assert.assertEquals;
 import org.junit.Test;
 
 /**
- * Unit test for simple App.
+ * @author nine9iota
+ * @version 1.0.0
+ * Unit test for simple App
  */
 public class AppTest {
     @Test
